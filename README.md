@@ -1,14 +1,7 @@
 # FitBoard
 
-Socail media app that allows groups of friends compete with each other in their fitness journey.
+Socail media app that allows groups of friends compete and keep each other motivated  in their fitness journey.
 
-## Motivation
-
-A great way to get users motivated to exercise and challange friends to star fit.
-
-## Build status
-
-Curently deployed: https://fitboardathletic.herokuapp.com/
 
 ## Code style
 
@@ -18,7 +11,7 @@ JavaScript, Node, Express, MySQL & CSS
 
 Sign Up:
 
-![](images/signUp.PNG)
+
 
 News Feed:
 

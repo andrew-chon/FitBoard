@@ -10,12 +10,11 @@ JavaScript, Node, Express, MySQL & CSS
 ## Screenshots
 
 Sign Up:
-
-
+![](https://github.com/theandrewchon/FitBoard/blob/master/images/signUp.png)
 
 News Feed:
 
-![](images/logIn.PNG)
+![](https://github.com/theandrewchon/FitBoard/blob/master/images/scoreboard.png)
 
 ## Tech/framework used
 

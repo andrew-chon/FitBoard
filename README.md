@@ -1,6 +1,6 @@
 # FitBoard
 
-Socail media app that allows groups of friends compete and keep each other motivated  in their fitness journey.
+Social media app that allows groups of friends compete and keep each other motivated  in their fitness journey.
 
 
 ## Code style
